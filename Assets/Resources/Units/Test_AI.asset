@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83211733825346a46a6f96bf264ad73c, type: 3}
+  m_Name: Test_AI
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Test_AI
+  <Sprite>k__BackingField: {fileID: 0}
+  <Prefab_game>k__BackingField: {fileID: 5721927833543734378, guid: fb281d6b23bf3234496efad78f42bace,
+    type: 3}
+  Stat_array:
+  - <Name>k__BackingField: Speed_back
+    Type: 1
+    Float_bool: 1
+    <Value_float>k__BackingField: 1.5
+    Integer_bool: 0
+    <Value_int>k__BackingField: 0
+    Vector2_bool: 0
+    <Value_vector2>k__BackingField: {x: 0, y: 0}
+    Vector3_bool: 0
+    <Value_vector3>k__BackingField: {x: 0, y: 0, z: 0}
+    Color_bool: 0
+    <Value_color>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+    Boolean_bool: 0
+    <Value_bool>k__BackingField: 0
+    String_bool: 0
+    <Value_string>k__BackingField: "\u0427\u0435\u0433\u043E \u043D\u0430\u0434\u0430?"
+    GameObject_bool: 0
+    <Value_gameObject>k__BackingField: {fileID: 0}
+  - <Name>k__BackingField: Speed
+    Type: 1
+    Float_bool: 1
+    <Value_float>k__BackingField: 4
+    Integer_bool: 0
+    <Value_int>k__BackingField: 0
+    Vector2_bool: 0
+    <Value_vector2>k__BackingField: {x: 0, y: 0}
+    Vector3_bool: 0
+    <Value_vector3>k__BackingField: {x: 0, y: 0, z: 0}
+    Color_bool: 0
+    <Value_color>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+    Boolean_bool: 0
+    <Value_bool>k__BackingField: 0
+    String_bool: 0
+    <Value_string>k__BackingField: "\u0427\u0435\u0433\u043E \u043D\u0430\u0434\u0430?"
+    GameObject_bool: 0
+    <Value_gameObject>k__BackingField: {fileID: 0}
+  - <Name>k__BackingField: Rotation
+    Type: 1
+    Float_bool: 1
+    <Value_float>k__BackingField: 360
+    Integer_bool: 0
+    <Value_int>k__BackingField: 0
+    Vector2_bool: 0
+    <Value_vector2>k__BackingField: {x: 0, y: 0}
+    Vector3_bool: 0
+    <Value_vector3>k__BackingField: {x: 0, y: 0, z: 0}
+    Color_bool: 0
+    <Value_color>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+    Boolean_bool: 0
+    <Value_bool>k__BackingField: 0
+    String_bool: 0
+    <Value_string>k__BackingField: "\u0427\u0435\u0433\u043E \u043D\u0430\u0434\u0430?"
+    GameObject_bool: 0
+    <Value_gameObject>k__BackingField: {fileID: 0}

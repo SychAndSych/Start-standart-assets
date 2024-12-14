@@ -1,0 +1,38 @@
+﻿//Скрипт отвечающий за ход времени в игре
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Sych_scripts
+{
+    [AddComponentMenu("Sych scripts / Other / Time game change")]
+    [DisallowMultipleComponent]
+	public class Time_game_change : MonoBehaviour
+	{
+
+		/// <summary>
+		/// Остановить время
+		/// </summary>
+		public void Time_stop()
+		{
+			Time.timeScale = 0;
+		}
+
+		/// <summary>
+		/// Остановить время
+		/// </summary>
+		public void Time_play()
+		{
+			Time.timeScale = 1;
+		}
+
+		/// <summary>
+		/// Замедлить время
+		/// </summary>
+		/// <param name="tm">Значение</param>
+		public void Time_slowdown(float _value)
+		{
+			Time.timeScale = _value;
+		}
+	}
+}

@@ -1,0 +1,90 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+namespace Sych_scripts
+{
+    public class #SCRIPTNAME# : Brain_SM_AI_abstract
+    {
+        #region Variables
+
+
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region MonoBehaviour Methods
+
+  protected override void Start()
+  {
+      base.Start();
+  }
+
+  protected override void Update()
+  {
+      base.Update();
+  }
+
+  protected override void FixedUpdate()
+  {
+      base.FixedUpdate();
+  }
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region Core Methods
+
+  protected override void Initialized_State_machine()
+  {
+      base.Initialized_State_machine();
+  }
+
+  protected override void Slow_update()
+  {
+      base.Slow_update();
+  }
+
+  protected override void Slow_update_2()
+  {
+      base.Slow_update_2();
+  }
+
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region Methods
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region Public Methods
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region Additionally
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+  #region Gizmos
+
+  #endregion
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+    }
+}
+#ROOTNAMESPACEEND#

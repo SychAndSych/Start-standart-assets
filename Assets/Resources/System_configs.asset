@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec914b2e2f3d874a90fcbf8ee7b3548, type: 3}
+  m_Name: System_configs
+  m_EditorClassIdentifier: 
+  Object_category_array:
+  - <Name_category>k__BackingField: Player
+    <Object_array>k__BackingField:
+    - {fileID: 11400000, guid: cf39cb071f4ee064db4d40b57c5f1a01, type: 2}
+  - <Name_category>k__BackingField: Units
+    <Object_array>k__BackingField:
+    - {fileID: 11400000, guid: 5e8f83fd9ffed6b43bca628d073681a3, type: 2}
+    - {fileID: 11400000, guid: 09b0d6664479e6543aa0d11e649c4e2d, type: 2}
+  - <Name_category>k__BackingField: Items
+    <Object_array>k__BackingField:
+    - {fileID: 11400000, guid: 11b607466f5b4d648b81cb2beaf8c09f, type: 2}
+    - {fileID: 11400000, guid: efe2023d9851456438e552b96491916b, type: 2}
+    - {fileID: 11400000, guid: 0277cdf6a32f2ee4ea408ac65e86f336, type: 2}
+  Merge_item_array:
+  - <Name>k__BackingField: Cube-Sphere
+    <First_item>k__BackingField: {fileID: 7687780460477191742, guid: 61ae8ff62953cc745aef620adfc9f386,
+      type: 3}
+    <Second_item>k__BackingField: {fileID: 2259707405120284490, guid: 81c270887b0046d49bff234c04f1fc81,
+      type: 3}
+    <Final_item>k__BackingField: {fileID: 8431049171870916120, guid: d7f9e3355cd5b07419ed46468bdfd255,
+      type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a7bd3a04f69d148be943afde13785e, type: 3}
+  m_Name: Test_quest_2
+  m_EditorClassIdentifier: 
+  <Name_quest>k__BackingField: "\u041A\u0432\u0435\u0441\u0442\u0438\u043A"
+  <Description_quest>k__BackingField: "\u041E\u043F\u0438\u0441\u0430\u043D"
+  <Description_Tasks_array>k__BackingField:
+  - "\u041D\u0430\u0436\u0430\u0442\u044C \u0437\u0435\u043B\u0451\u043D\u043D\u0443\u044E
+    \u043A\u043D\u043E\u043F\u043A\u0443"
+  - "\u041D\u0430\u0436\u0430\u0442\u044C \u0436\u0451\u043B\u0442\u0443\u044E \u043A\u043D\u043E\u043F\u043A\u0443"
+  - "\u041D\u0430\u0436\u0430\u0442\u044C \u0441\u0438\u043D\u0438\u044E \u043A\u043D\u043E\u043F\u043A\u0443"
+  Requirements_array: []

@@ -1,0 +1,107 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+namespace Sych_scripts
+{
+    public class #SCRIPTNAME# : State_AI_abstract
+    {
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+        #region Variables
+
+
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region MonoBehaviour Methods
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region Core Methods
+
+        protected override void Preparation()
+        {
+            base.Preparation();
+        }
+
+        protected override void Initialized_stats()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public override void Logic_Update()
+        {
+            base.Logic_Update();
+        }
+
+        public override void Physics_Update()
+        {
+            base.Physics_Update();
+        }
+
+        public override void Slow_Update()
+        {
+            base.Slow_Update();
+        }
+
+        public override void Slow_Update_2()
+        {
+            base.Slow_Update_2();
+        }
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region State Method
+        public override void Enter_state()
+        {
+            base.Enter_state();
+        }
+
+        public override void Exit_state()
+        {
+            base.Exit_state();
+        }
+
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region Methods
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region Public Methods
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region Additionally
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+        #region Gizmos
+
+        #endregion
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+    }
+}
+#ROOTNAMESPACEEND#
